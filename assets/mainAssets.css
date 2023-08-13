@@ -1,0 +1,78 @@
+#body {
+    margin: 0 auto;
+    font-family: garamond;
+}
+
+/* Main part of the page (top)*/
+#containerMainTitle {
+    background-color: white;
+    width: 100%;
+}
+#mainTitle{
+    font-size: 120px;
+    text-align: center;
+}
+
+/* The second part of the page */
+#secondContainer {
+    background-color: #f0efef;
+    width: 100%;
+    margin: 0 auto;
+}
+#secondTitle {
+    text-align: center;
+    font-size: 60px;
+}
+
+/* IMG */
+#imgId{
+    text-align: center;
+}
+#worldImg {
+    width: 80%;
+}
+
+/* Middle part of the page*/
+#middleRow {
+    background-color: #ddeedd;
+    padding: 10px;
+    margin-right: 0px;
+}
+#card{
+    text-align: center;
+    padding: 1%;
+    margin: 1%;
+    margin-bottom: 1%;
+}
+#cardImg {
+    padding: 20%;
+}
+#cardBtn {
+    font-size: 20px;
+    color: rgb(129, 97, 180);
+}
+
+/* Footer*/
+#footerLists {
+    background-color: #c2d4dd;
+}
+#listGroupFooter{
+    text-align: center;
+    font-size: 17px;
+    padding: 5%;
+    margin-bottom: 1%;
+}
+#footerAnchor{
+    color: black ;
+    background-color: transparent;
+    text-decoration: none;
+}
+#copyrightFooter {
+    padding: 1%;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    font-weight: bold;
+    font-size: 13px;
+    background-color: #b0aac0;
+}
